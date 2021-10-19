@@ -13,10 +13,4 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 ritikaag26/ritikaag26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Computer Vision 👁️‍🗨️
-Title	Article	Repo
-Classifying Images of Alcoholic Beverages with fast.ai v2	🔗	🔗
-Russian Car Plate Detection with OpenCV and TesseractOCR	🔗	🔗
-Evaluate OCR Output Quality with Character Error Rate (CER) and Word Error Rate (WER)	🔗	🔗
-Top Python libraries for Image Augmentation in Computer Vision	🔗	🔗
-PyTorch Ignite Tutorial - Classifying Tiny ImageNet with EfficientNet	🔗	🔗
+
