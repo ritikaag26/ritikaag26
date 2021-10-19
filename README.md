@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer vision and mediapipe
 - 💞️ I’m looking to collaborate on Deep Learning and Computer vision Projects
 - 📫 How to reach me ritika26.agarwal@gmail.com
+-    I’m always open to meaningful collaborations.
 
 <!---
 ritikaag26/ritikaag26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
