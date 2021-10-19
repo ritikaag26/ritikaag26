@@ -1,3 +1,7 @@
+Ritika Agarwal
+
+I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
+
 - 👋 Hi, I’m @ritikaag26
 - 👀 I’m interested in the area of Deep Learning
 - 🌱 I’m currently learning computer vision and mediapipe
